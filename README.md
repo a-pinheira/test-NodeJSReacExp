@@ -1,2 +1,8 @@
 # test-NodeJSReacExp
-Teste da feature de protótipo rvw 1.0 
+Teste de feature do protótipo 
+------------------------------
+         rvw 1.0 
+------------------------------
+
+Por Mony Machado
+
